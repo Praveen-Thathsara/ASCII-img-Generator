@@ -61,7 +61,7 @@ Make sure you have **Python 3** installed on your system.
 
 ## Customization
 
-You can easily tweak the `ascii_art.py` script to change the output.
+You can easily tweak the `art.py` script to change the output.
 
 -   **Character Set**: Modify the `ASCII_CHARS` list to change the "texture" of the art. The list should be ordered from the visually darkest character to the lightest.
 
