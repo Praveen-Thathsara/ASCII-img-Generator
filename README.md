@@ -52,7 +52,7 @@ Make sure you have **Python 3** installed on your system.
 1.  Place the image you want to convert into the root directory of the project.
 2.  Run the script from your terminal:
     ```bash
-    python ascii_art.py
+    python art.py
     ```
 3.  When prompted, enter the full name of your image file (e.g., `my_cat.png`) and press Enter.
 4.  The script will display the art in the terminal and save the result to `ascii_image.txt`.
